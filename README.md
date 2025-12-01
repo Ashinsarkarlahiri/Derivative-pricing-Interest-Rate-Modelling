@@ -15,7 +15,7 @@ The project demonstrates the practical application of quantitative finance techn
 - Translate financial mathematics into efficient and interpretable code.
 
 ## Topics Covered
-1. Derivative Pricing
+1. **Derivative Pricing**
 
 Conceptual explanation of derivative structures.
 
@@ -27,11 +27,10 @@ Implementation of:
 
 ✔ Black-Scholes Formula
 
-✔ Monte Carlo Simulation for option pricing
+✔ Stochastic Volatility models
 
-Visualizations of price paths and payoff distributions.
 
-2. Interest Rate Modelling
+2. **Interest Rate Modelling**
 
 Introduction to term structure of interest rates.
 
@@ -43,28 +42,23 @@ Implementation of popular frameworks:
 
 ✔ Cox–Ingersoll–Ross (CIR) Model
 
-✔ Short rate simulations using SDEs
+✔ Hull White Model
 
-Yield curve evolution and scenario generation.
 
-3. Numerical & Simulation Techniques
+3. **Numerical & Simulation Techniques**
 
-Monte Carlo path generation
+✔ Monte Carlo path generation
 
-Euler discretization for SDEs
+✔ Convergence checks and error analysis
 
-Pricing derivatives using simulation-based methods
+4. **Tech Stack**
 
-Convergence checks and error analysis
+- Python 3.x
 
-🛠 Tech Stack
+- NumPy for vectorized numerical computations
 
-Python 3.x
+- Pandas for data handling
 
-NumPy for vectorized numerical computations
+- Matplotlib / Seaborn for visualization
 
-Pandas for data handling
-
-Matplotlib / Seaborn for visualization
-
-SciPy (where necessary for statistics and optimization)
+- SciPy (where necessary for statistics and optimization)
