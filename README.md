@@ -1,7 +1,7 @@
 # Derivative-pricing and Interest-Rate-Modelling
 ## Overview
 
-This repository contains a complete Python-based implementation of derivative pricing and interest rate modelling concepts taught in Class-10 of the course.
+This repository contains a complete Python-based implementation of derivative pricing and interest rate modelling.
 The project demonstrates the practical application of quantitative finance techniques using Python, with intuitive explanations, structured workflows, and replicable code.
 
 ## Key Objectives
